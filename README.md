@@ -90,7 +90,7 @@ Trained and evaluated multiple regression models using R², MAE, and RMSE:
 ## 🚀 How to Run
 ```bash
 # Clone the repository
-git clone https://github.com/USERNAME/house-price-prediction.git
+git clone https://github.com/habiba-10/house-price-prediction.git
 cd house-price-prediction
 
 # Install dependencies
